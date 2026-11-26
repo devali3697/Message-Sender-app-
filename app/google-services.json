@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652278483677",
+    "firebase_url": "https://inamglink-default-rtdb.firebaseio.com",
+    "project_id": "inamglink",
+    "storage_bucket": "inamglink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652278483677:android:8d0a34170bbada123be934",
+        "android_client_info": {
+          "package_name": "com.personal.messagesender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652278483677-tii9ssbkk9qkqd7gtaododh9lsv3ivma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNuIQ_JF6ZrtQVVdgMiWUjhPKaR6qcP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652278483677-tii9ssbkk9qkqd7gtaododh9lsv3ivma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

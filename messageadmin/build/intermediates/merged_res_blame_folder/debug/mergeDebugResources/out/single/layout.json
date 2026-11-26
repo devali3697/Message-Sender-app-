@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-mergeDebugResources-47:\\layout\\dialog_admin_auth.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\layout\\dialog_admin_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.personal.messageadmin-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.personal.messageadmin-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-mergeDebugResources-47:\\layout\\item_alert.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\layout\\item_alert.xml"
+    }
+]

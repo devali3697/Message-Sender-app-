@@ -1,0 +1,30 @@
+{
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null",
+
+    "alerts": {
+      ".indexOn": ["timestamp", "read"],
+      "$alertId": {
+        ".validate": "newData.hasChildren(['id', 'sender', 'timestamp'])",
+        "sender": {
+          ".validate": "newData.isString()"
+        },
+        "timestamp": {
+          ".validate": "newData.isNumber()"
+        },
+        "read": {
+          ".validate": "newData.isBoolean()"
+        }
+      }
+    },
+    "devices": {
+      "sender": {
+        ".validate": "true"
+      },
+      "admin": {
+        ".validate": "true"
+      }
+    }
+  }
+}

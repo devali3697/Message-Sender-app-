@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-debug-48:\\layout_item_alert.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-debug-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-debug-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-debug-48:\\layout_dialog_admin_auth.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\layout\\dialog_admin_auth.xml"
+    },
+    {
+        "merged": "com.personal.messageadmin-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.personal.messageadmin-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-debug-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\9.6.0\\com.personal.messageadmin-main-50:\\layout\\activity_main.xml"
+    }
+]

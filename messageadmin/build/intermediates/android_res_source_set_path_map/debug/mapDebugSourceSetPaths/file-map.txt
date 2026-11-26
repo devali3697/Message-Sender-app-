@@ -1,0 +1,9 @@
+com.personal.messageadmin-pngs-0 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\build\generated\res\pngs\debug
+com.personal.messageadmin-res-1 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\build\generated\res\processDebugGoogleServices
+com.personal.messageadmin-updated_navigation_xml-2 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\build\generated\updated_navigation_xml\debug
+com.personal.messageadmin-packageDebugResources-3 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.personal.messageadmin-packageDebugResources-4 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.personal.messageadmin-debug-5 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\build\intermediates\merged_res\debug\mergeDebugResources
+com.personal.messageadmin-debug-6 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\src\debug\res
+com.personal.messageadmin-main-7 C:\Users\Dell\AndroidStudioProjects\MessageSender\messageadmin\src\main\res
+gradleHome-0 C:\Users\Dell\.gradle
